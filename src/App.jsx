@@ -60,6 +60,16 @@ function App() {
                             description="The core UI building block."
                             image={componentsImg}
                         />
+                        <CoreConcept
+                            title="Components"
+                            description="The core UI building block."
+                            image={componentsImg}
+                        />
+                        <CoreConcept
+                            title="Components"
+                            description="The core UI building block."
+                            image={componentsImg}
+                        />
                     </ul>
                 </section>
             </main>
